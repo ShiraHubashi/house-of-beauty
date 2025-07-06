@@ -28,8 +28,8 @@ Backend API server for Beauty Store e-commerce platform built with Node.js, Expr
 
 1. **Clone the repository**
 ```bash
-git clone <repository-url>
-cd beauty-store-backend
+git clone https://github.com/ShiraHubashi/house-of-beauty.git
+cd house-of-beauty/backend
 ```
 
 2. **Install dependencies**
