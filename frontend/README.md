@@ -5,8 +5,9 @@ Full-stack e-commerce platform for home decoration and design products.
 ![Homepage](./screenshots/homepage.png)
 
 ## 🌟 Live Demo
-- **Frontend Repository**: [React Frontend](https://github.com/efratcohen22/beauty-store-frontend)
-- **Backend Repository**: [Node.js API](https://github.com/efratcohen22/beauty-store-backend)
+- **Repository**: [House of Beauty](https://github.com/ShiraHubashi/house-of-beauty)
+- **Frontend**: Located in `/frontend` directory
+- **Backend**: Located in `/backend` directory
 
 ## ✨ Key Features
 
@@ -92,15 +93,17 @@ This project demonstrates expertise in:
 ## 🔧 Quick Start
 
 ```bash
+# Clone the repository
+git clone https://github.com/ShiraHubashi/house-of-beauty.git
+cd house-of-beauty
+
 # Backend Setup
-git clone https://github.com/efratcohen22/beauty-store-backend.git
-cd beauty-store-backend
+cd backend
 npm install
 npm run seed
 npm run dev
 
-# Frontend Setup
-git clone https://github.com/efratcohen22/beauty-store-frontend.git
-cd beauty-store-frontend
+# Frontend Setup (in a new terminal)
+cd frontend
 npm install
 npm run dev
